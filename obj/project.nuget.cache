@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "kV+3rQ0BLO6sjRSLgih7yII8YwSLZ3xAP0Ps3N7+ifc8RYkUXX92eE8DiJNEKdBxYMoX9ln9EGbLzZbSj7NVxw==",
+  "success": true,
+  "projectFilePath": "/home/ll/BlockchainApp/BlockchainApp.csproj",
+  "expectedPackageFiles": [
+    "/home/ll/.nuget/packages/adraffy.ensnormalize/0.1.5/adraffy.ensnormalize.0.1.5.nupkg.sha512",
+    "/home/ll/.nuget/packages/bouncycastle.cryptography/2.5.1/bouncycastle.cryptography.2.5.1.nupkg.sha512",
+    "/home/ll/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nbitcoin.secp256k1/3.1.1/nbitcoin.secp256k1.3.1.1.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.abi/5.0.0/nethereum.abi.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.accounts/5.0.0/nethereum.accounts.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.blockchainprocessing/5.0.0/nethereum.blockchainprocessing.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.contracts/5.0.0/nethereum.contracts.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.hex/5.0.0/nethereum.hex.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.jsonrpc.client/5.0.0/nethereum.jsonrpc.client.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.jsonrpc.rpcclient/5.0.0/nethereum.jsonrpc.rpcclient.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.keystore/5.0.0/nethereum.keystore.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.merkle.patricia/5.0.0/nethereum.merkle.patricia.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.model/5.0.0/nethereum.model.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.rlp/5.0.0/nethereum.rlp.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.rpc/5.0.0/nethereum.rpc.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.signer/5.0.0/nethereum.signer.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.signer.eip712/5.0.0/nethereum.signer.eip712.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.util/5.0.0/nethereum.util.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.util.rest/5.0.0/nethereum.util.rest.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/nethereum.web3/5.0.0/nethereum.web3.5.0.0.nupkg.sha512",
+    "/home/ll/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
